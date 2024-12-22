@@ -1,4 +1,4 @@
-# BitcoinPriceChecker
+# Bitcoin Price Checker
 Bitcoin Price Checker - Google Chrome Extension
 
 Stay up-to-date with the latest Bitcoin prices directly from your browser!
