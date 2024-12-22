@@ -1,0 +1,30 @@
+Privacy Policy
+
+Bitcoin Price Checker is committed to protecting your privacy. This privacy policy outlines what information the extension collects, how it is used, and your rights regarding that information.
+
+Data Collection
+This extension does not collect, store, or share any personal data. It fetches Bitcoin price data from the CoinDesk API but does not transmit, store, or access user-related information.
+
+Permissions
+The extension may require the following permissions:
+
+Access to the CoinDesk API: To fetch live Bitcoin price data, the extension makes secure fetch requests to the CoinDesk API. No user data is transmitted in this process.
+Local Storage
+The extension may store basic settings (e.g., user preferences) locally on your device to improve functionality. This data is not shared or transmitted to external servers.
+
+Third-Party Services
+The extension uses the CoinDesk API to fetch Bitcoin price data. You can review CoinDesk's privacy policy for more information about their data practices: CoinDesk Privacy Policy.
+
+Data Sharing
+The extension does not share any user data with third parties.
+
+Security
+All data fetching processes are secure and compliant with web standards. The extension operates within the Chrome Web Store's strict privacy and security policies.
+
+Changes to this Policy
+We may update this privacy policy from time to time. Any changes will be communicated through the Chrome Web Store listing.
+
+Contact
+If you have any questions or concerns about this privacy policy, please contact us at [your-email@example.com].
+
+By using this extension, you agree to the terms of this privacy policy. Thank you for trusting Bitcoin Price Checker!
